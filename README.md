@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/View_Portfolio-02569B?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/19gItHHSNBFQnl6iHKxgkWHPZykDcUeoC/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Download_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
